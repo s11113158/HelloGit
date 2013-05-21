@@ -1,3 +1,3 @@
 <?php
-print("Hello My PHP");
+print(Hello My PHP);
 ?>
